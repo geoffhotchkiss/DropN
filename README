@@ -1,0 +1,6 @@
+DropN is a clone of the iPhone Drop7 game written in Common Lisp.
+
+To run the game, load the dropn.lisp file in your favorite Common Lisp 
+implementation and run (play-game). I have tested this with SBCL and CLisp. 
+There is currently a problem with adding your pieces to the board and no
+game logic is implemented yet.
